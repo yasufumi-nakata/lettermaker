@@ -1,0 +1,2 @@
+# lettermaker
+自動で記事を作成するGPT4APIとエルゼビアAPIを用いたシステムです．
